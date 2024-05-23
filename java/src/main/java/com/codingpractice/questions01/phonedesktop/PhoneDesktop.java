@@ -1,4 +1,4 @@
-package main.java.com.codingpractice.step01.j240523;
+package main.java.com.codingpractice.questions01.phonedesktop;
 
 import java.util.Scanner;
 
